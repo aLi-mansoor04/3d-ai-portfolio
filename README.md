@@ -101,3 +101,6 @@ readable.
 
 React 19 · TypeScript · Vite · Tailwind CSS v4 · Three.js · @react-three/fiber ·
 @react-three/drei · @react-three/postprocessing · GSAP + ScrollTrigger
+
+
+if you want to see my portfolio visit :- https://aliiiportfolio.netlify.app/
